@@ -1,0 +1,4 @@
+git init
+git add xyz.py
+git commit -m "first commit"
+git push origin main
